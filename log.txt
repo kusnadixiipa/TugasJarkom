@@ -1,2 +1,4 @@
 bahan : makalah
 latar belakang : quality of service
+
+29/6 : latar belakang+pembahasan
