@@ -1,0 +1,2 @@
+Referensi dari wikipedia mengenai QOS
+E.800: Terms and definitions related to quality of service and network performance including dependability". ITU-T Recommendation. August 1994. Retrieved October 14, 2011. Updated September 2008 as Definitions of terms related to quality of service
